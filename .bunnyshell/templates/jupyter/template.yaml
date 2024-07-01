@@ -1,0 +1,12 @@
+name: Jupyter Template
+description: Description goes here
+tags:
+    - bunnyshell
+icons: [ 'sample' ]
+stack:
+  packages:
+    - name: Package name
+      version: 'Specify Version'
+discoverable: true
+categories:
+    - Add your category here
